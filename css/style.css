@@ -48,6 +48,16 @@ body {
     margin-top: 1.5rem;
     font-weight: 600;
     font-size: 0.8rem;
+    width: 100%;
+}
+.contact-info__links > ul {
+    padding-left: 0rem;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-content: center;
+    text-decoration: none;
+    list-style-type: none;
 }
 .contact-info__link {
     display: flex;
